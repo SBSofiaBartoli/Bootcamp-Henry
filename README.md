@@ -1,2 +1,1 @@
-# Bootcamp-Henry
-Esto es una prueba de mi primer repositorio del modulo 0
+Esto es un proyecto de prueba de como crearun repositorioy clonarlo desde github a mi pc.
